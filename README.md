@@ -1,30 +1,16 @@
-# React + TypeScript + Vite
+Source code of my website that create cute aesthetic "Random Anime Quote" cart that you can download it and add it to your ig story or share it with your friends :3
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+!! I DONT HAVE ANY PLAN TO RUN THIS WEBSITE !!
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## How it works
+I create this [React.js](https://react.dev) app with [Vite](https://vitejs.dev) library as a part of my [Portfolio](https://github.com/cwpslxck/Portfolio)
 
-## Expanding the ESLint configuration
+Its simply get information from [Animechan.xyz](https://animechan.xyz/) api.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+Then show it as a cart with "quote" "anime name" and "character name".
 
-- Configure the top-level `parserOptions` property like this:
+then you can download it as a .png file via [html-to-image](https://www.npmjs.com/package/html-to-image) react library.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+## AAAAA
+follow my instagram account so you can see me doing my projects :)
